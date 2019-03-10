@@ -2,6 +2,7 @@
 def prime? (num)
   if num < 0 
     false
+    break
   end
   
   if num <= 3
