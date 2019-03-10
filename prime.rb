@@ -19,6 +19,7 @@ def prime? (num)
     end
     
     divisor +=2
+    puts "#{divisor} ---- #{num}"
   end
   
   true 
