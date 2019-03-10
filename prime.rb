@@ -18,6 +18,8 @@ def prime? (num)
       false
     end
     
-    divisor +=2  
+    divisor +=2
   end
+  
+  true 
 end
