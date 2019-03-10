@@ -1,15 +1,7 @@
 # Add  code here!
 def prime? (num)
-  if num < 0
-    false
-  end
-  
-  if num == 2 
-    true 
-  end
-  
-  if num == 3
-    true 
+  if num <= 3
+    true
   end
   
   if num % 2 == 0 
