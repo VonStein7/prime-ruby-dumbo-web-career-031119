@@ -16,7 +16,7 @@ def prime? (num)
     
     divisor +=2
   end
-  puts num 
+  puts num < 0 
   true 
 end
 
